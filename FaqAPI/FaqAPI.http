@@ -1,0 +1,6 @@
+@FaqAPI_HostAddress = http://localhost:5134
+
+GET {{FaqAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
